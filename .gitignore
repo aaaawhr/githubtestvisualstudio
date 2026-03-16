@@ -39,3 +39,20 @@
 
 # debug information files
 *.dwo
+
+
+
+# Visual Studio 缓存/临时文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出目录
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
